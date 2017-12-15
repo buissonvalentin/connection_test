@@ -1,0 +1,68 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    background: url('images/background2.jpg');
+}
+
+.header{
+    width: 100%;
+    height: 60px;
+    background: #232f3e;
+}
+
+.headerUser{
+   width: 50%;
+   height: 60px;
+   margin-left: 25%;
+   margin-right: 25%;
+}
+
+.thumb{
+    margin-top: 10px;
+    width : 40px;
+    height: 40px;
+    border-radius : 20px;
+    float: left;
+    margin-right: 10px;
+}
+
+#username{
+    color: #fff;
+    font-size: 24px;
+    padding-top: 12px;
+    font-family: verdana;
+
+}
+
+.main{
+    margin-top: 5%;
+}
+
+.block{
+    height: 60%;
+    background: #ccc;
+    padding: 0;
+}
+
+
+.text{
+    color: #003B59;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+.exit{
+    width : 20px;
+    height: 20px;
+    float: right;
+    
+}
+
+.exit:hover{
+    cursor: pointer;
+}
+
+.center{
+    text-align: center;
+}

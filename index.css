@@ -1,0 +1,31 @@
+body{
+    background-image: url('images/background.jpg');
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.center {
+    margin-top: 12%;
+}
+.row{
+    text-align: center;
+}
+
+.title{
+    font-size: 18px;
+    color: #232f3e;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text{
+    color : #003B59;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bottom{
+    position: absolute;
+    bottom: 30px;
+    width: 100%;
+    padding: 0 25%;
+}
